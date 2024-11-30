@@ -4,7 +4,7 @@
 FOSS Starting page / Search Engine for the web.  
 **Originally made by Webby.**
 ## View Live
-[https://weboasis-pd.pages.dev](https://weboasis-pd.pages.dev/)
+[https://weboasis.su](https://weboasis.su/)
 ## Run Locally
 
 Clone the project
