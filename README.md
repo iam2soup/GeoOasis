@@ -3,8 +3,7 @@
 
 FOSS Starting page / Search Engine for the web.  
 **Originally made by Webby.**
-## View Live
-[https://weboasis.su](https://weboasis.su/)
+** Forked by 2soup7. **
 ## Run Locally
 
 Clone the project
